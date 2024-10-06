@@ -1,0 +1,1 @@
+An Art Shipment Price Predictor is a machine learning model designed to predict the cost of shipping artwork based on various factors like the size, weight, destination, and value of the piece. This helps galleries, artists, and shipping companies estimate shipping fees accurately and optimize their logistics.
